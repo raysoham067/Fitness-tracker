@@ -53,6 +53,8 @@ The client is configured to proxy `/api` to the server on `http://localhost:8080
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
+## result
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/4b726d3b-06d6-42b7-8b19-270ddb9201e0" />
 
 ## License
 
